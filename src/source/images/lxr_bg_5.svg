@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="375px" height="511px" viewBox="0 0 375 511" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>lxr_bg_5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="31.822288%" y1="0%" x2="31.822288%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFCA78" offset="0%"></stop>
+            <stop stop-color="#EE7074" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="375" height="508.10386"></rect>
+        <linearGradient x1="100%" y1="86.7709444%" x2="8.26832335%" y2="15.3142792%" id="linearGradient-4">
+            <stop stop-color="#FF7967" offset="0%"></stop>
+            <stop stop-color="#CC7E63" offset="18.1959503%"></stop>
+            <stop stop-color="#D2484D" offset="49.1669324%"></stop>
+            <stop stop-color="#FF9961" offset="76.0941486%"></stop>
+            <stop stop-color="#F8BE6A" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-5" cx="30" cy="30" r="30"></circle>
+        <filter x="-54.2%" y="-40.8%" width="208.3%" height="208.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.141176471   0 0 0 0 0.141176471  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="70.294911%" y1="95.7836525%" x2="25.5816677%" y2="10.6662269%" id="linearGradient-7">
+            <stop stop-color="#520457" offset="0%"></stop>
+            <stop stop-color="#CA4E65" offset="48.3284676%"></stop>
+            <stop stop-color="#EE6469" offset="67.6827545%"></stop>
+            <stop stop-color="#F8B38E" offset="86.9047752%"></stop>
+            <stop stop-color="#FFE1AD" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-8" cx="266.5" cy="61.5" r="47.5"></circle>
+        <filter x="-34.2%" y="-25.8%" width="168.4%" height="168.4%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="9.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.823529412   0 0 0 0 0.141176471   0 0 0 0 0.141176471  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-10" x="0" y="0.182222174" width="375" height="103.817778"></rect>
+        <circle id="path-12" cx="196.82959" cy="101.82959" r="55.8295902"></circle>
+        <filter x="-10.7%" y="-10.7%" width="121.5%" height="121.5%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.588679766   0 0 0 0 0.902059958   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-14" cx="62.8295902" cy="56.8295902" r="55.8295902"></circle>
+        <filter x="-10.7%" y="-10.7%" width="121.5%" height="121.5%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.588679766   0 0 0 0 0.902059958   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-16" cx="264.82959" cy="123.82959" r="55.8295902"></circle>
+        <filter x="-10.7%" y="-10.7%" width="121.5%" height="121.5%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.588679766   0 0 0 0 0.902059958   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-18" cx="363.866536" cy="128.866536" r="92.8665365"></circle>
+        <filter x="-6.5%" y="-6.5%" width="112.9%" height="112.9%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.588679766   0 0 0 0 0.902059958   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-20" cx="391.678992" cy="134.324095" r="69.3240945"></circle>
+        <filter x="-8.7%" y="-8.7%" width="117.3%" height="117.3%" filterUnits="objectBoundingBox" id="filter-21">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.588679766   0 0 0 0 0.902059958   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-22" cx="439.501543" cy="64.5015435" r="64.5015435"></circle>
+        <filter x="-9.3%" y="-9.3%" width="118.6%" height="118.6%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.588679766   0 0 0 0 0.902059958   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-24" cx="105.458252" cy="158.458252" r="104.541748"></circle>
+        <filter x="-5.7%" y="-5.7%" width="111.5%" height="111.5%" filterUnits="objectBoundingBox" id="filter-25">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.588679766   0 0 0 0 0.902059958   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="乐新人-1.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-5-收集页面" transform="translate(0.000000, -66.000000)">
+            <g id="lxr_bg_5" transform="translate(0.000000, 66.000000)">
+                <g id="云">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask-Copy" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <g id="繁星" mask="url(#mask-3)">
+                        <g transform="translate(-37.000000, 14.000000)">
+                            <circle id="Oval-21" fill="#FFFFFF" opacity="0.5" cx="140.926262" cy="292.867585" r="2.79778609"></circle>
+                            <circle id="Oval-21-Copy-5" fill="#FFFFFF" opacity="0.5" cx="120.494443" cy="365.179172" r="2.09860678"></circle>
+                            <circle id="Oval-21-Copy-61" fill="#FFFFFF" opacity="0.5" cx="67.2163168" cy="286.248614" r="2.09860678"></circle>
+                            <circle id="Oval-21-Copy-41" fill="#FFFFFF" opacity="0.5" cx="130.360763" cy="450.029521" r="2.09860678"></circle>
+                            <circle id="Oval-21-Copy-42" fill="#FFFFFF" opacity="0.5" cx="106.14808" cy="419.897047" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-62" fill="#FFFFFF" opacity="0.5" cx="52.8699539" cy="340.966489" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-7" fill="#FFFFFF" opacity="0.5" cx="121.934192" cy="350.832809" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-63" fill="#FFFFFF" opacity="0.5" cx="68.6560654" cy="271.902251" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-43" fill="#FFFFFF" opacity="0.5" cx="131.800512" cy="435.683158" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-8" fill="#FFFFFF" opacity="0.5" cx="39.5891032" cy="369.124181" r="2.09708832"></circle>
+                            <circle id="Oval-21-Copy" fill="#FFFFFF" opacity="0.5" cx="155.201776" cy="305.169835" r="1.28718872"></circle>
+                            <circle id="Oval-21-Copy-2" fill="#FFFFFF" opacity="0.5" cx="133.830052" cy="311.423806" r="1.62136757"></circle>
+                            <circle id="Oval-21-Copy-3" fill="#FFFFFF" opacity="0.5" cx="141.128669" cy="332.535271" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-64" fill="#FFFFFF" opacity="0.5" cx="87.8505427" cy="253.604714" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-44" fill="#FFFFFF" opacity="0.5" cx="150.994989" cy="417.385621" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-65" fill="#FFFFFF" opacity="0.5" cx="97.7168624" cy="338.455063" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-4" fill="#FFFFFF" opacity="0.5" cx="38.5189442" cy="387.786662" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-9" fill="#FFFFFF" opacity="0.5" cx="367.851615" cy="140.926262" r="2.79778609"></circle>
+                            <circle id="Oval-21-Copy-18" fill="#FFFFFF" opacity="0.5" cx="379.691199" cy="265.24189" r="2.79778609"></circle>
+                            <circle id="Oval-21-Copy-10" fill="#FFFFFF" opacity="0.5" cx="319.794101" cy="187.585417" r="2.09860678"></circle>
+                            <circle id="Oval-21-Copy-45" fill="#FFFFFF" opacity="0.5" cx="290.54557" cy="69.0595911" r="2.09860678"></circle>
+                            <circle id="Oval-21-Copy-11" fill="#FFFFFF" opacity="0.5" cx="360.699129" cy="185.078638" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-35" fill="#FFFFFF" opacity="0.200000003" cx="52.8699539" cy="185.078638" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-27" fill="#FFFFFF" opacity="0.5" cx="354.779337" cy="29.1907866" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-12" fill="#FFFFFF" opacity="0.5" cx="382.405032" cy="204.811277" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-36" fill="#FFFFFF" opacity="0.200000003" cx="74.5758573" cy="204.811277" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-28" fill="#FFFFFF" opacity="0.5" cx="376.48524" cy="48.923426" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-13" fill="#FFFFFF" opacity="0.5" cx="343.47175" cy="132.332508" r="2.09708832"></circle>
+                            <circle id="Oval-21-Copy-37" fill="#FFFFFF" opacity="0.5" cx="50.6187872" cy="336.742059" r="1.28718872"></circle>
+                            <circle id="Oval-21-Copy-15" fill="#FFFFFF" opacity="0.5" cx="392.327628" cy="149.616163" r="1.62136757"></circle>
+                            <circle id="Oval-21-Copy-30" fill="#FFFFFF" opacity="0.5" cx="404.167211" cy="273.931791" r="1.62136757"></circle>
+                            <circle id="Oval-21-Copy-16" fill="#FFFFFF" opacity="0.5" cx="399.626245" cy="170.727628" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-39" fill="#FFFFFF" opacity="0.200000003" cx="91.7970706" cy="170.727628" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-31" fill="#FFFFFF" opacity="0.5" cx="393.706453" cy="14.8397769" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-17" fill="#FFFFFF" opacity="0.5" cx="364.107494" cy="156.914781" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-32" fill="#FFFFFF" opacity="0.5" cx="358.187703" cy="1.02692935" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-19" fill="#FFFFFF" opacity="0.5" cx="250.729863" cy="37.6173577" r="2.09860678"></circle>
+                            <circle id="Oval-21-Copy-57" fill="#FFFFFF" opacity="0.5" cx="323.740629" cy="420.430562" r="2.09860678"></circle>
+                            <circle id="Oval-21-Copy-20" fill="#FFFFFF" opacity="0.5" cx="244.276556" cy="287.688363" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-58" fill="#FFFFFF" opacity="0.5" cx="299.527946" cy="390.298088" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-46" fill="#FFFFFF" opacity="0.5" cx="215.028025" cy="169.162537" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-21" fill="#FFFFFF" opacity="0.5" cx="252.169612" cy="23.2709948" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-59" fill="#FFFFFF" opacity="0.5" cx="325.180378" cy="406.084199" r="1.56509148"></circle>
+                            <circle id="Oval-21-Copy-22" fill="#FFFFFF" opacity="0.5" cx="211.263066" cy="256.648137" r="2.09708832"></circle>
+                            <circle id="Oval-21-Copy-47" fill="#FFFFFF" opacity="0.5" cx="182.014535" cy="138.122311" r="2.09708832"></circle>
+                            <circle id="Oval-21-Copy-23" fill="#FFFFFF" opacity="0.5" cx="291.356988" cy="234.132334" r="1.28718872"></circle>
+                            <circle id="Oval-21-Copy-48" fill="#FFFFFF" opacity="0.5" cx="262.108457" cy="115.606508" r="1.28718872"></circle>
+                            <circle id="Oval-21-Copy-24" fill="#FFFFFF" opacity="0.5" cx="260.118944" cy="252.225888" r="1.62136757"></circle>
+                            <circle id="Oval-21-Copy-49" fill="#FFFFFF" opacity="0.5" cx="230.870412" cy="133.700062" r="1.62136757"></circle>
+                            <circle id="Oval-21-Copy-25" fill="#FFFFFF" opacity="0.5" cx="271.364089" cy="4.97345723" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-60" fill="#FFFFFF" opacity="0.5" cx="344.374855" cy="387.786662" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-50" fill="#FFFFFF" opacity="0.5" cx="259.874933" cy="166.651111" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-26" fill="#FFFFFF" opacity="0.5" cx="253.604714" cy="271.364089" r="1.02692935"></circle>
+                            <circle id="Oval-21-Copy-51" fill="#FFFFFF" opacity="0.5" cx="224.356182" cy="152.838263" r="1.02692935"></circle>
+                            <g id="星球" stroke-width="1" fill="none" transform="translate(66.000000, 316.000000)">
+                                <g id="Oval-19" opacity="0.560000002">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                    <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                </g>
+                                <g id="Oval-19-Copy" opacity="0.449999988">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                                    <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-8"></use>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="lxr_yun" transform="translate(0.000000, 407.000000)">
+                    <mask id="mask-11" fill="white">
+                        <use xlink:href="#path-10"></use>
+                    </mask>
+                    <use id="Mask" fill-opacity="0" fill="#D8D8D8" xlink:href="#path-10"></use>
+                    <g id="云" mask="url(#mask-11)">
+                        <g transform="translate(-65.000000, 5.000000)">
+                            <g id="Oval-Copy-5">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                            </g>
+                            <g id="Oval-Copy-6">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-14"></use>
+                            </g>
+                            <g id="Oval-Copy-4">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-16"></use>
+                            </g>
+                            <g id="Oval-Copy-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                            </g>
+                            <g id="Oval-Copy-3">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-21)" xlink:href="#path-20"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-20"></use>
+                            </g>
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-22"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-22"></use>
+                            </g>
+                            <g id="Oval-Copy">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-25)" xlink:href="#path-24"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-24"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="59px" height="35px" viewBox="0 0 59 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_swipeup</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M210.526912,623.071068 L207.355339,623.071068 L187.284271,603 L167.213203,623.071068 L164.041631,623.071068 L164.041631,623.071068 C162.937061,623.071068 162.041631,622.175637 162.041631,621.071068 C162.041631,620.540635 162.252344,620.031927 162.627417,619.656854 L185.870058,596.414214 L185.870058,596.414214 C186.651106,595.633165 187.917436,595.633165 188.698485,596.414214 L211.941125,619.656854 L211.941125,619.656854 C212.722174,620.437903 212.722174,621.704233 211.941125,622.485281 C211.566053,622.860354 211.057345,623.071068 210.526912,623.071068 Z M202.355339,623.071068 L172.213203,623.071068 L187.284271,608 L202.355339,623.071068 Z" id="path-1"></path>
+        <filter x="-13.1%" y="-18.2%" width="126.2%" height="151.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.199360149   0 0 0 0 0.0184378649   0 0 0 0 0.229007228  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="乐助手-1.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.699999988">
+        <g id="1-8-分析页-1" transform="translate(-158.000000, -594.000000)">
+            <g id="icon_swipeup">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
